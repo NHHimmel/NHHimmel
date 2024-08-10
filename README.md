@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NHHimmel
+- 👋 Hi, I’m Nazmul Hasan Himel
 - 👀 I’m interested in Programming, Philosophy, Mathematics and Physics.
 - 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on Open Source projects
