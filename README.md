@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nazmul Hasan Himel
 - 👀 I’m interested in Programming, Philosophy, Mathematics and Physics.
-- 🌱 I’m currently learning App development
+- 🌱 I’m currently studying Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: Email - zahi.abdullah1000@gmail.com
 - 😄 Pronouns: He/Him
